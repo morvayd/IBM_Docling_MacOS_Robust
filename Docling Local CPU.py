@@ -117,8 +117,6 @@ for i in range(0, len(chunks)):
 
 #  print(chunks[0].export_to_markdown())  # output: "### Docling Technical Report[...]"
 
-
-
 #
 #  ---------- Document Packages ----------
 #
