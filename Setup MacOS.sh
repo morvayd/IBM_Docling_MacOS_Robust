@@ -41,8 +41,8 @@ docling --version
 #  Download the docling models to use locally - download new at new installation
 #  Note:  (change from my file structure)
 docling-tools models download --all -o "./models"
-#   Using the CLI: `docling --artifacts-path=models2 FILE` 
-#   Note:  May need to download the following model specifically
+#  Using the CLI: `docling --artifacts-path=models2 FILE` 
+#  Note:  May need to download the following model specifically
 #  Folder:  models--sentence-transformers--all-MiniLM-L6-v2
 
 #
