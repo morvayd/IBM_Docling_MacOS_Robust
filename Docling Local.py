@@ -165,7 +165,7 @@ doc_converter: Any = DocumentConverter(
     }
 )
 
-source: str = input("Enter image filename: ").strip()
+source: str = input("Enter document filename: ").strip()
 #  source = "2408.09869v5.pdf"
 
 try:
@@ -252,7 +252,7 @@ doc_converter: Any = DocumentConverter(
     }
 )
 
-source: str = input("Enter image filename: ").strip()
+source: str = input("Enter document filename: ").strip()
 #  source = "2408.09869v5.pdf"
 
 try:
